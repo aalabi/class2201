@@ -10,5 +10,6 @@ body{
 p{
 	margin-bottom: 5px;
 	padding: 5px 15px;
-	background-color: #fff;
+	background-color: black;
+	color: red;
 }
